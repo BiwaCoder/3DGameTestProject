@@ -4,7 +4,7 @@ using UnityEngine;
 using System;
 
 
-public class CharcterData : MonoBehaviour
+public class CharcterData
 {
     public int Hp;
     public int Strength;
